@@ -1,3 +1,4 @@
-src/data/*
+src/data/
+src/out/
 .history
 **/__pycache__/**

@@ -1,4 +1,7 @@
 src/data/
+<<<<<<< HEAD
 src/out/
+=======
+>>>>>>> e01d2b9e7de9a589e7dec5fcc6a5ae7d17fb4050
 .history
 **/__pycache__/**
